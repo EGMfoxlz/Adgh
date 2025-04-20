@@ -1,0 +1,27 @@
+{
+  "name": "AdBlockingSources",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easyprivacy.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+    }
+  ],
+  "transformations": ["RemoveComments", "Compress", "RemoveModifiers", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+}
