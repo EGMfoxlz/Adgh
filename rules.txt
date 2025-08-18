@@ -1,6 +1,6 @@
 !
 ! Title: AdBlockingSources
-! Last modified: 2025-08-18T02:24:11.179Z
+! Last modified: 2025-08-18T06:39:32.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1632,6 +1632,7 @@
 ||8041691.engage.hipages.com.au^
 ||80582834.xyz^
 ||808ba9fe3d.com^
+||80a16e63df.com^
 ||80juqing.com^
 ||80ms6831o.com^
 ||81015449c0.com^
@@ -8903,6 +8904,7 @@
 ||akoo0515uis.com^
 ||akoo0516uis.com^
 ||akpiug.rarecarat.com^
+||akqqnwlzvbjvq.top^
 ||akravaguity.click^
 ||aksb-a.akamaihd.net^
 ||akspdp.materialkitchen.com^
@@ -12423,6 +12425,7 @@
 ||auhwfcyikuqam.club^
 ||auislq.top^
 ||aujooxoo.com^
+||auklettabbied.cyou^
 ||aukrgukepersao.com^
 ||aukrutijirgaute.net^
 ||aukthwaealsoext.com^
@@ -12769,6 +12772,7 @@
 ||axkqulgipvjt.com^
 ||axkwyf.edinos.pl^
 ||axlikeoedipus.shop^
+||axljlsidtcge.com^
 ||axmmilepqvdyj.world^
 ||axnskz.power-stones.jp^
 ||axonix.com^
@@ -12937,6 +12941,7 @@
 ||aypwvtnuvqbqurk.com^
 ||aywivflptwd.com^
 ||ayzylwqazaemj.top^
+||ayzylwqryazkw.top^
 ||az.nzn.io^
 ||az5i.icu^
 ||az693360.vo.msecnd.net^
@@ -15773,6 +15778,7 @@
 ||bservr.com^
 ||bsfoxmbspamhy.com^
 ||bsgbd77l.de^
+||bsgvqpbowocn.com^
 ||bshkabobs.cfd^
 ||bshrdr.com^
 ||bsizoia.com^
@@ -19959,6 +19965,7 @@
 ||cpngiubbcnq.love^
 ||cppm-kc2.net.jumia.ci^
 ||cppopmfbsoohj.top^
+||cpqbnawlbdqbqey.com^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cpro.bdrmb.cn^
@@ -24348,6 +24355,7 @@
 ||dkfqrsqg.com^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dkgsdarwbwi.xyz^
+||dkgwtjibcb.com^
 ||dkhffh.xyz^
 ||dkicpdlnilmr.com^
 ||dkijnrhdtlvdm.fun^
@@ -24647,6 +24655,7 @@
 ||doaltariaer.com^
 ||doankhqxgwbui.site^
 ||doapovauma.net^
+||doaptahoojeer.net^
 ||doapujoptude.net^
 ||doasoajeegat.net^
 ||doastootheg.net^
@@ -25534,6 +25543,7 @@
 ||dxkkb5tytkivf.cloudfront.net^
 ||dxkuwz.domyown.com^
 ||dxlxkxznctrnk.site^
+||dxlyladmlitox.store^
 ||dxmjyxksvc.com^
 ||dxop.bcbsla.com^
 ||dxouwbn7o.com^
@@ -30255,6 +30265,7 @@
 ||fpcsbulls.nba.com^
 ||fpctraffic2.com^
 ||fpctraffic3.com^
+||fpdbkwpnd.com^
 ||fpdtilvopjnvi.space^
 ||fpfhtr.icu^
 ||fpgedsewst.com^
@@ -35230,6 +35241,7 @@
 ||hppfyrdeuangi.website^
 ||hpplay.cdn.cibn.cc^
 ||hprofits.com^
+||hpryvlxqtsgpx.site^
 ||hptechnology.arrow.com^
 ||hptidc.top^
 ||hptjkhqpriiaby.xyz^
@@ -40055,6 +40067,7 @@
 ||jwhjqjfl.icu^
 ||jwilmia.top^
 ||jwjwtw.top^
+||jwkkxtlvg.com^
 ||jwlvlo.icaniwill.dk^
 ||jwmhqs.fsk.ru^
 ||jwmstats.com^
@@ -42140,6 +42153,7 @@
 ||lgepbups.xyz^
 ||lggbvkoaavkw.top^
 ||lgkocdi.icu^
+||lglxxxadsjocm.website^
 ||lgm.averydennison.com^
 ||lgmhwonu.com^
 ||lgndcnxvofld.com^
@@ -43429,6 +43443,7 @@
 ||llkdiu.chacos.com^
 ||llkhskddtowp.com^
 ||llntrack.messe-duesseldorf.de^
+||llolmwnalzobw.top^
 ||lloogg.com^
 ||llozybojzojoq.top^
 ||llpgpro.com^
@@ -44952,6 +44967,7 @@
 ||majestic-oven.com^
 ||majesticwaterscape.com^
 ||majesticwilderness.com^
+||majestydisbeliefcalory.com^
 ||majile.vip^
 ||majnthxnvroafog.com^
 ||major.dvanadva.ru^
@@ -47369,6 +47385,7 @@
 ||meoneintheworl.com^
 ||meoneintheworldwho.org^
 ||meorzoi.xyz^
+||meowadvertising.com^
 ||mepgglfrmfd.xyz^
 ||mepirtedic.com^
 ||mepkbonqzmuvl.xyz^
@@ -49682,6 +49699,7 @@
 ||moilizoi.com^
 ||moistenmanoc.com^
 ||moistureretrievalnorm.com^
+||moistword.com^
 ||mojoaffiliates.com^
 ||mojocatan.digital^
 ||moksoxos.com^
@@ -50002,6 +50020,7 @@
 ||mpk01.com^
 ||mplayeranyd.info^
 ||mplxtms.com^
+||mpmqzkienrxkm.website^
 ||mpn56e.cn^
 ||mpnjigsicbtas.site^
 ||mpnoyjbqtyfht.love^
@@ -52059,6 +52078,7 @@
 ||ntlysearchingfora.com^
 ||ntmknjlcfdmqw.space^
 ||ntmreohudibfo.buzz^
+||ntneaxqvyhi.com^
 ||ntofinaukncec.org^
 ||ntoftheusysia.info^
 ||ntoftheusysia.org^
@@ -60545,6 +60565,7 @@
 ||richmetrics.com^
 ||richstring.com^
 ||richwebmedia.com^
+||ricinicquinate.help^
 ||ricinsfixion.click^
 ||rickerrotal.com^
 ||ricwueyfswdw.com^
@@ -60697,6 +60718,7 @@
 ||rjvzjn.top^
 ||rjw4obbw.com^
 ||rjwpwod.icu^
+||rjwwqkrmyvzyw.top^
 ||rjxczvecqiipf.site^
 ||rjxvff.icu^
 ||rjxyulyvtfbve.store^
@@ -61380,6 +61402,7 @@
 ||ruvdkw.turk.net^
 ||ruvgbv.icu^
 ||ruw.roanokeunderwriting.com^
+||ruxobhgtuvhi.com^
 ||ruzotchaufu.xyz^
 ||rv-syzfedv.rocks^
 ||rvardsusyseinp.org^
@@ -63598,6 +63621,7 @@
 ||see.yousoon.com^
 ||seeawhale.com^
 ||seebait.com^
+||seechhustled.click^
 ||seedlingneurotic.com^
 ||seedscissors.com^
 ||seedtag.com^
@@ -73746,6 +73770,7 @@
 ||tastedaftknowledge.com^
 ||tasteeat.openapp.link^
 ||tastelesstrees.com^
+||tastercloskey.com^
 ||tastesnake.com^
 ||tasty-letter.pro^
 ||tatehj.nylaarp.com^
@@ -73987,6 +74012,7 @@
 ||teamsperilous.com^
 ||teapotdescended.com^
 ||tearfulglass.com^
+||tearyfotive.com^
 ||teasemilesnewlywed.com^
 ||teasernet.com^
 ||teasernet.ru^
@@ -74738,6 +74764,7 @@
 ||tidaltv.com^
 ||tidjufquvobvr.space^
 ||tidningsnatet.se^
+||tidy-idea.com^
 ||tidy.intel.cn^
 ||tidy.intel.co.jp^
 ||tidy.intel.co.kr^
@@ -75611,6 +75638,7 @@
 ||tpmexb.vans.co.nz^
 ||tpmr.com^
 ||tpn134.com^
+||tpohvqeutohhh.space^
 ||tpoqbkqesgoig.one^
 ||tptksmwibuzyu.store^
 ||tpubrk.eobuv.com^
@@ -78756,6 +78784,7 @@
 ||truthtraff.com^
 ||trutvnci.top^
 ||truuhmoen.com^
+||truwhkxgrezny.website^
 ||truxedku.com^
 ||trvonu.k-manga.jp^
 ||trw12.com^
@@ -81232,6 +81261,7 @@
 ||vbphograewy.com^
 ||vbppuxmhgqtjvt.com^
 ||vbptgoyketwhv.global^
+||vbqhisumn.com^
 ||vbqrzzrzazzky.top^
 ||vbqtfejdtqkjuf.com^
 ||vbseje.stonehengehealth.com^
@@ -81283,6 +81313,7 @@
 ||vdmvyu.falk.de^
 ||vdmwntw1of9t8xgd.edge41.testandtarget.omniture.com^
 ||vdna-assets.com^
+||vdnchidrksemn.online^
 ||vdo.ai^
 ||vdocifgpcjirs.online^
 ||vdoing.com^
@@ -83590,6 +83621,7 @@
 ||wherevertogo.com^
 ||wherryinwound.shop^
 ||whesulsejortoag.net^
+||whetaitaltoawhy.net^
 ||wheyeychalcid.shop^
 ||whfpbc.99.com.cn^
 ||whgcbgdsrqixx.rocks^
@@ -83673,6 +83705,7 @@
 ||whoopblew.com^
 ||whoopeddeys.shop^
 ||whoopseelratiy.net^
+||whoozocajie.net^
 ||whoppercreaky.com^
 ||whorlswombat.click^
 ||whosclickingwho.com^
@@ -87297,6 +87330,7 @@
 ||zkvxgc.nissui-kenko.com^
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
+||zlaosdshglcjt.space^
 ||zlbrflcqtepgn.store^
 ||zlclgzs.cn^
 ||zldqcc.dodenhof.de^
@@ -87468,6 +87502,7 @@
 ||zqmblmvomvyjz.top^
 ||zqmblmvomvzab.top^
 ||zqntbc.top^
+||zqqiynddnpjtf.space^
 ||zqraicojravzn.xyz^
 ||zqtk.net^
 ||zqvee2re50mr.com^
