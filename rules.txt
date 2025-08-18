@@ -1,6 +1,6 @@
 !
 ! Title: AdBlockingSources
-! Last modified: 2025-08-18T06:39:32.687Z
+! Last modified: 2025-08-18T06:43:25.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
