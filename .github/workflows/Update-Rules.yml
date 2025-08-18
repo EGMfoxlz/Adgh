@@ -1,35 +1,23 @@
 name: Hostlist Compiler Workflow
 
-# 允许手动触发和定时触发
 on:
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'  # 每周一凌晨 0 点执行
+    - cron: '0 0 * * 1'
 
 jobs:
   Sync:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-
-      # 生成规则
-      - name: Output rules
-        run: |
-          npm install -g @adguard/hostlist-compiler  # 全局安装 hostlist-compiler
-          hostlist-compiler -c ./data/configuration.json -o ./rules.txt  # 输出文件命名为 rules.txt
+      - run: |
+          npm install -g @adguard/hostlist-compiler
+          hostlist-compiler -c ./data/configuration.json -o ./rules.txt
           python ./data/Update-readme-rules.py
-          git add ./rules.txt README.md
-        
       - uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          file_pattern: "./rules.txt README.md"
-
-      # 删除过期的工作流运行记录
       - uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          retain_days: 0  # 删除所有历史工作流记录
-          keep_minimum_runs: 0  # 不保留任何工作流运行
+          retain_days: 0
+          keep_minimum_runs: 0
